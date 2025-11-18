@@ -7,9 +7,8 @@
 
 
 - 👋 Hi, I’m @kapil-gupta
-- 👀 I’m interested in learning node/ react and want to be a full stack developer
-- 🌱 I’m currently learning Node and React
-- 💞️ I’m looking to collaborate on Node/React
+- 👀 I’m Technology agnostic and worked in multiple languages
+- 🌱 I’m currently looking for opprtunites in Java / Node
 - 📫 How to reach me **kapil.gupta.softeng@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
